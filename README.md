@@ -10,7 +10,7 @@ Meu nome é Meire, no momento estou cursando Análise e Desenvolvimento de Siste
 
 ### Projeto
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MeireMendes&repo=Tik-Tok-Project&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MeireMendes&repo=Tik-Tok-Project&theme=dark)](https://github.com/MeireMendes/github-readme-stats)
 
 ### Linguagens utilizadas
 
