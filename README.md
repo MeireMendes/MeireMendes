@@ -1,4 +1,4 @@
-### Hi there 👋
+### Olá 👋
 
 ######  Sobre Meire
 Meu nome é Meire, no momento estou cursando Análise e Desenvolvimento de Sistemas e o curso Profissão Full Stack Python sou formada em Ciências Contábeis estou em Transição de carreira. Decidi mudar de profissão porque amo tecnologia e sempre sonhei em trabalhar nessa área.   
